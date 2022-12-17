@@ -1,0 +1,10 @@
+Record N 1 in file s.s
+Record N 2 in file s.s
+Record N 3 in file s.s
+Record N 4 in file s.s
+Record N 5 in file s.s
+Record N 6 in file s.s
+Record N 7 in file s.s
+Record N 8 in file s.s
+Record N 9 in file s.s
+Record N 10 in file s.s

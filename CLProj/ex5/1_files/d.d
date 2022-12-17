@@ -1,0 +1,10 @@
+Record N 1 in file d.d
+Record N 2 in file d.d
+Record N 3 in file d.d
+Record N 4 in file d.d
+Record N 5 in file d.d
+Record N 6 in file d.d
+Record N 7 in file d.d
+Record N 8 in file d.d
+Record N 9 in file d.d
+Record N 10 in file d.d

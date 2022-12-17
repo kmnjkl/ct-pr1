@@ -1,0 +1,10 @@
+Record N 1 in file t.t
+Record N 2 in file t.t
+Record N 3 in file t.t
+Record N 4 in file t.t
+Record N 5 in file t.t
+Record N 6 in file t.t
+Record N 7 in file t.t
+Record N 8 in file t.t
+Record N 9 in file t.t
+Record N 10 in file t.t

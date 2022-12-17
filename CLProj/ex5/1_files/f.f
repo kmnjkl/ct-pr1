@@ -1,0 +1,10 @@
+Record N 1 in file f.f
+Record N 2 in file f.f
+Record N 3 in file f.f
+Record N 4 in file f.f
+Record N 5 in file f.f
+Record N 6 in file f.f
+Record N 7 in file f.f
+Record N 8 in file f.f
+Record N 9 in file f.f
+Record N 10 in file f.f

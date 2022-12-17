@@ -1,0 +1,231 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Prakt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2.3.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.3.1-Debug-a327ebc5ebc7bf5cc7bd.json",
+					"name" : "2.3.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.3.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.3.2-Debug-2c42df5ff28266bcf43d.json",
+					"name" : "2.3.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.3.2.arr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.3.2.arr-Debug-205ee4c979efc3fa9a87.json",
+					"name" : "2.3.2.arr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3.1-Debug-af8562529640c1144f7a.json",
+					"name" : "3.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3.2-Debug-261efb9f1c80f2d1d9ff.json",
+					"name" : "3.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3.2.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3.2.2-Debug-02752154e99350e90e9d.json",
+					"name" : "3.2.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.ex2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.ex2-Debug-96a0e6c92f1f119eb797.json",
+					"name" : "4.ex2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.pt.t::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.pt.t-Debug-9c35e6ef2c89e2333a5e.json",
+					"name" : "4.pt.t",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.1-Debug-566d7702ec3837eeb07f.json",
+					"name" : "5.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.2-Debug-eea43267c57e21ac25d2.json",
+					"name" : "5.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "char_get::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-char_get-Debug-01cf90fadde45c49f993.json",
+					"name" : "char_get",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex0-Debug-9c19cbdd08066cad3b41.json",
+					"name" : "ex0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex1-Debug-35e100da1e316fd26d61.json",
+					"name" : "ex1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex1b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex1b-Debug-ff85b7071a96640e5aeb.json",
+					"name" : "ex1b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex2-Debug-6ad46c227b030b9097d0.json",
+					"name" : "ex2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex2b::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex2b-Debug-eaa07f209ad7622b45d7.json",
+					"name" : "ex2b",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex41::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex41-Debug-e39e1a0bb40c1ca75b9d.json",
+					"name" : "ex41",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "l1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-l1-Debug-14f1385cc618d342296d.json",
+					"name" : "l1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zp12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zp12-Debug-fe4d9cb86a7653fa5860.json",
+					"name" : "zp12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zp52::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zp52-Debug-60eaaf6cc70aed277100.json",
+					"name" : "zp52",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kmnjkl/YD/Computer_technologies/Prakt/cmake-build-debug",
+		"source" : "/home/kmnjkl/YD/Computer_technologies/Prakt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

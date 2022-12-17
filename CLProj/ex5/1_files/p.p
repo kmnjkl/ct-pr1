@@ -1,0 +1,10 @@
+Record N 1 in file p.p
+Record N 2 in file p.p
+Record N 3 in file p.p
+Record N 4 in file p.p
+Record N 5 in file p.p
+Record N 6 in file p.p
+Record N 7 in file p.p
+Record N 8 in file p.p
+Record N 9 in file p.p
+Record N 10 in file p.p

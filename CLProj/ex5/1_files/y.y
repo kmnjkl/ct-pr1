@@ -1,0 +1,10 @@
+Record N 1 in file y.y
+Record N 2 in file y.y
+Record N 3 in file y.y
+Record N 4 in file y.y
+Record N 5 in file y.y
+Record N 6 in file y.y
+Record N 7 in file y.y
+Record N 8 in file y.y
+Record N 9 in file y.y
+Record N 10 in file y.y

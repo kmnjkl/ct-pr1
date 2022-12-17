@@ -1,0 +1,10 @@
+Record N 1 in file w.w
+Record N 2 in file w.w
+Record N 3 in file w.w
+Record N 4 in file w.w
+Record N 5 in file w.w
+Record N 6 in file w.w
+Record N 7 in file w.w
+Record N 8 in file w.w
+Record N 9 in file w.w
+Record N 10 in file w.w
